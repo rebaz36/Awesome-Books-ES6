@@ -1,4 +1,6 @@
+/* eslint-disable import/prefer-default-export */
 import { inputAuthor, inputTitle, bookSection } from './elements.js';
+
 export class BookSet {
   // Constructor with array of books
   constructor(books = []) {

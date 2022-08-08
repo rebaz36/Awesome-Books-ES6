@@ -1,8 +1,8 @@
 /* eslint-disable max-classes-per-file */
 import { inputAuthor, inputTitle, submitBtn } from './elements.js';
-import {Book} from './book.js';
-import {BookSet} from './bookset.js';
-import {DateTime} from './luxon.js';
+import { Book } from './book.js';
+import { BookSet } from './bookset.js';
+import { DateTime } from './luxon.js';
 
 // Book Constructor function (representing a book).
 const coll = new BookSet();
