@@ -159,6 +159,11 @@ ul {
   display: none;
 }
 
+.active {
+  background-color: #000;
+  color: #fff;
+}
+
 /* Footer Section */
 
 .footer {
